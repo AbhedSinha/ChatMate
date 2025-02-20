@@ -13,12 +13,8 @@ Trying to develop full-stack flutter application with `dart_frog` as backend
 ### 🎨 Design
 Inspiration --> https://dribbble.com/shots/18340567-Sosmad-Social-Media-App
 
-Figma Design --> https://www.figma.com/file/83dXk35avf0BTHtYPWeyl7/Flutteram-Social-App
+### Under Development Project
 
-
-### 👀 Look'n Feel (Underdevelopment)
-
-<img src="https://user-images.githubusercontent.com/43790152/223090428-5741a54a-8857-43ab-9d0f-be46f5ceafdc.png" height="530px"> <img src="https://user-images.githubusercontent.com/43790152/223090690-02b72209-a151-47d3-a91e-1d2806e26575.png" height="530px"> <img src="https://user-images.githubusercontent.com/43790152/223090967-1c5d4dfb-84ed-42e0-8dad-eae1ed059f73.png" height="530px"> <img src="https://user-images.githubusercontent.com/43790152/223091114-1ff21c00-3989-4395-aed5-d61222683a2a.png" height="530px">
 
 ### 🧰 Developer Setup
 This project is running on local environment because I'm just learning and playing with it. Hence, you might need to setup some stuff other than flutter/dart to get it up and running.
